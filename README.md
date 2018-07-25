@@ -1,8 +1,7 @@
-#Creation and use of native component with angular 6
+# Creation and use of native component with angular 6
 
 This exercise is based upon post:
 https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e
-
 
 ## Create proyect
 
@@ -17,7 +16,9 @@ to post title:'Let's share the love'
 ## Libraries to be exported need some change:
 
 In your component change package json in this way :
+
 ´´´
+
 {
   "name": "my-sandbox",
   "version": "0.0.0",
